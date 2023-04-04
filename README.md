@@ -16,3 +16,5 @@ The weather data will be filtered in each city to collect the best suitable citi
 API Links
 https://www.geoapify.com/places-api
 https://openweathermap.org/api
+
+note: Please use your own API Keys to pull the data
